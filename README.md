@@ -15,3 +15,10 @@ Step 2:Configure the instance with Apache Webserver->Download php application na
 ![7](https://user-images.githubusercontent.com/84776750/119688373-8fe42500-be65-11eb-8941-0df759ff8568.PNG)
 ![8](https://user-images.githubusercontent.com/84776750/119688376-8fe42500-be65-11eb-9b36-8403f6f92713.PNG)
 ![9](https://user-images.githubusercontent.com/84776750/119688378-907cbb80-be65-11eb-9339-7f2cee74a6b5.PNG)
+
+Step 3:setup a MySQL server using AWS RDS service using Free Tier.
+![10](https://user-images.githubusercontent.com/84776750/119688730-df2a5580-be65-11eb-91c3-0dd84d234af7.PNG)
+![11](https://user-images.githubusercontent.com/84776750/119688735-e05b8280-be65-11eb-843b-a401e3ff78ea.PNG)
+
+
+Step 4:endpoint/connection string to the WordPress application
