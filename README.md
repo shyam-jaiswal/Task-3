@@ -22,3 +22,6 @@ Step 3:setup a MySQL server using AWS RDS service using Free Tier.
 
 
 Step 4:endpoint/connection string to the WordPress application
+
+![12](https://user-images.githubusercontent.com/84776750/119689052-2adcff00-be66-11eb-8d79-8acc8e10ff23.PNG)
+![13](https://user-images.githubusercontent.com/84776750/119689057-2c0e2c00-be66-11eb-9975-92cbf32a9fb9.PNG)
