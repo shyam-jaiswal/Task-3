@@ -9,5 +9,9 @@ Step 1:Create an AWS EC2 instance
 ![4](https://user-images.githubusercontent.com/84776750/119687880-2b28ca80-be65-11eb-887c-9a7d883d8659.PNG)
 ![5](https://user-images.githubusercontent.com/84776750/119687882-2b28ca80-be65-11eb-8ac3-1ac310ea567d.PNG)
 
-Step 2:Configure the instance with Apache Webserver.
+Step 2:Configure the instance with Apache Webserver->Download php application name "WordPress"".
 
+![6](https://user-images.githubusercontent.com/84776750/119688367-8eb2f800-be65-11eb-878c-a95ea2aa7113.PNG)
+![7](https://user-images.githubusercontent.com/84776750/119688373-8fe42500-be65-11eb-8941-0df759ff8568.PNG)
+![8](https://user-images.githubusercontent.com/84776750/119688376-8fe42500-be65-11eb-9b36-8403f6f92713.PNG)
+![9](https://user-images.githubusercontent.com/84776750/119688378-907cbb80-be65-11eb-9339-7f2cee74a6b5.PNG)
